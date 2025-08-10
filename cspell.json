@@ -1,0 +1,14 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "luxone",
+    "luxone-others",
+    "luxoneOthersSlabSize",
+    "luxoneOthersThickness",
+    "luxoneOthersFinish",
+    "luxoneOthersColorName"
+  ],
+  "ignoreWords": [],
+  "patterns": []
+} 
